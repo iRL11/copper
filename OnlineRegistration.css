@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+input{
+    float: right;
+    margin-right: 40%;
+    width: 30%;
+}
+p{
+    margin-left: 30%;
+}
